@@ -9,3 +9,5 @@ import sys
 while True:
     n,m=map(int,sys.stdin.readline().split())
     print(n+m)
+
+print("test")
